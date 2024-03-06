@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-int function(int x){
+int function(int x){ ///comentariu
 	x=x-2;
 	if(x>0)
         x=function(x);
